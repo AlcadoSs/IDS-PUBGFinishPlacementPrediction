@@ -1,1 +1,1 @@
-# IDSPUBGFinishPlacementPrediction
+# IDS-PUBGFinishPlacementPrediction
