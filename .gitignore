@@ -4,3 +4,5 @@ train_V2.csv
 sample_submission_V2.csv
 ~$7_report.docx
 ~WRL0003.tmp
+.ipynb_checkpoints/data_preprocessing-checkpoint.ipynb
+.ipynb_checkpoints/data_visualization-checkpoint.ipynb
